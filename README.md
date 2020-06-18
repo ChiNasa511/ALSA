@@ -21,7 +21,7 @@ What is the effect of time and quantity on the ability of subjects to make decis
 ## Methods
 In this associative memory task, the experiment is simulated by a sample-sample-test paradigm in which two different samples are shown before testing one of the previously shown samples. In this task, the samples are represented by images that are taken from a face database created by the Tarrlab at Brown University. The faces are diverse and include subjects of African-American, Asian, Hispanic, and white backgrounds. The analytical framework designed in this project was implemented using the Psychophysics and Eyelink Toolbox in MATLAB and an Eyelink Gazetracker was used to collect visual data. Subjects were trained to perform this task in which they learned the moved position of two different images in order to recall its moved position. Since this task was tested by human primates, training consisted of one sample trial that gave the subject insight as to how the task should be performed. 
 
-![ALSA_activity_demo](ALSA_demo)
+![ALSA_activity_demo](ALSA_demo.png)
 
 ## Project Presentation
 A video of the project presentation can be found [here](https://www.youtube.com/watch?v=XP98nyfkWB0).
