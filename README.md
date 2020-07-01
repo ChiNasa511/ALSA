@@ -27,4 +27,4 @@ In this associative memory task, the experiment is simulated by a sample-sample-
 A video of the project presentation can be found [here](https://www.youtube.com/watch?v=XP98nyfkWB0).
 
 ## Acknowledgements
-This research was made possible by the HHMI-funded Exceptional Research Opportunities Program at Columbia University.
+This research was made possible by the HHMI-funded Exceptional Research Opportunities Program (EXROP) at Columbia University.
